@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 token RamAtlantic
 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
+=======
+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
+
+Luis Lozada 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
+>>>>>>> baa4d25f3e70ca1d3d8b443fd8a2d48b60ec707d
